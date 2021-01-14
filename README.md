@@ -1,5 +1,4 @@
 # Nodejs Expressjs MongoDB Ready-to-use API Project Structure
-[![Author](http://img.shields.io/badge/author-@maitraysuthar-blue.svg)](https://www.linkedin.com/in/maitray-suthar/) [![GitHub license](https://img.shields.io/github/license/maitraysuthar/VincAcademyBackend.svg)](https://github.com/maitraysuthar/VincAcademyBackend/blob/master/LICENSE)  ![GitHub repo size](https://img.shields.io/github/repo-size/maitraysuthar/VincAcademyBackend) [![Codacy Badge](https://api.codacy.com/project/badge/Coverage/b3eb80984adc4671988ffb22d6ad83df)](https://www.codacy.com/manual/maitraysuthar/VincAcademyBackend?utm_source=github.com&utm_medium=referral&utm_content=maitraysuthar/VincAcademyBackend&utm_campaign=Badge_Coverage) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/b3eb80984adc4671988ffb22d6ad83df)](https://www.codacy.com/manual/maitraysuthar/VincAcademyBackend?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=maitraysuthar/VincAcademyBackend&amp;utm_campaign=Badge_Grade) ![Travis (.com)](https://img.shields.io/travis/com/maitraysuthar/VincAcademyBackend)
 
 A ready-to-use boilerplate for REST API Development with Node.js, Express, and MongoDB
 
@@ -10,21 +9,6 @@ A ready-to-use boilerplate for REST API Development with Node.js, Express, and M
 This is a basic API skeleton written in JavaScript ES2015. Very useful to building a RESTful web APIs for your front-end platforms like Android, iOS or JavaScript frameworks (Angular, Reactjs, etc).
 
 This project will run on **NodeJs** using **MongoDB** as database. I had tried to maintain the code structure easy as any beginner can also adopt the flow and start building an API. Project is open for suggestions, Bug reports and pull requests.
-
-## Some Great Stuff
-
-<a href="https://tracking.gitads.io/?campaign=gitads&repo=VincAcademyBackend&redirect=gitads.io" target="_blank"><img src="https://images.gitads.io/VincAcademyBackend" alt="Some Great Stuff" style="height: auto !important;width: auto !important;" ></a>
-<br><i>This advert was placed by <a href="https://tracking.gitads.io/?campaign=gitads&repo=VincAcademyBackend&redirect=gitads.io" rel="gitads">GitAds</a> </i>
-
-## Advertise for Job/Work Contract
-
-I am looking for a good job or work contract. You can contact me directly on my email ([maitraysuthar@gmail.com](mailto:maitraysuthar@gmail.com "maitraysuthar@gmail.com")) or you can download my CV from my personal  [website](https://maitraysuthar.github.io/portfolio/). Looking forward. Thanks :smile:
-
-## Buy me a Coffee
-
-If you consider my project as helpful stuff, You can appreciate me or my hard work and time spent to create this helpful structure with buying a coffee for me. I would be very thankful if you buy me a coffee, please buy me a coffee :smile:.
-
-<a href="https://www.buymeacoffee.com/36GgOoQ2f" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
 ## Features
 
@@ -51,14 +35,6 @@ If you consider my project as helpful stuff, You can appreciate me or my hard wo
 ## How to install
 
 ### Using Git (recommended)
-
-1.  Clone the project from github. Change "myproject" to your project name.
-
-```bash
-git clone https://github.com/maitraysuthar/VincAcademyBackend.git ./myproject
-```
-
-### Using manual download ZIP
 
 1.  Download repository
 2.  Uncompress to your desired directory
